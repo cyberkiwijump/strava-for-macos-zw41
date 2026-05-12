@@ -1,4 +1,4 @@
-# 
+# Enhance MyFitnessPal for macOS with MyFitnessPal for macOS exclusive Tool: heart-rate-monitoring & goal-setting, the #1 tool. Includes heart-rate-monitoring and goal-setting for a
 
 
 
